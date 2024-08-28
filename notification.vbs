@@ -1,0 +1,1 @@
+msgbox"Langue Détecter : Francais , Merci d'utuliser Fix Lag . Votre latense est passée de 23ms a 2ms"
