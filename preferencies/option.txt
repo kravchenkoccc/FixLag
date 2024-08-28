@@ -1,0 +1,7 @@
+# option files do not attempt any change
+
+reduced-lag=1
+text-to-image=0
+gui=0
+custom-resolution=0
+python=0

@@ -1,0 +1,6 @@
+[2024/08/24 21:29:15.419, MSIAEC1.tmp (PID: 21956, TID: 15216), Registry.cpp:495 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM32\SOFTWARE\JavaSoft\Java Update\Policy\jucheck] key
+[2024/08/24 21:29:15.420, MSIAEC1.tmp (PID: 21956, TID: 15216), Registry.cpp:495 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM32\SOFTWARE\JavaSoft\Java Update\Policy] key
+[2024/08/24 21:29:15.420, MSIAEC1.tmp (PID: 21956, TID: 15216), Registry.cpp:495 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM32\SOFTWARE\JavaSoft\Java Update] key
