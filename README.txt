@@ -9,4 +9,4 @@ the script works by himself your only mission is to start it and lunch your game
 
 THX
 
-github : https://github.com/kravchenkoccc/FixLagg
+github : https://github.com/kravchenkoccc/FixLag
